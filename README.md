@@ -26,7 +26,7 @@ Este proyecto utiliza el patrón Screenplay para mejorar la legibilidad y la man
   
 - **userinterfaces**: Contiene clases donde se encuentran los localizadores de la página.
 
-- **utils**: Contiene clases para generar utilidades en las intervenciones, con el propósito de ejecutar funciones específicas.
+- **utils**: Contiene clases para generar utilidades en las interacciones, con el propósito de ejecutar funciones específicas.
 
 - **runners**: Contiene las clases que permiten ejecutar los features.
 
