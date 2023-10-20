@@ -40,3 +40,8 @@ Para ejecutar este proyecto en tu máquina local, debes:
 Clona este repositorio en tu máquina local utilizando Git:
 
    git clone https://github.com/JessicaParraG/RetoWebSaucemo.git
+
+## Ejecución por consola
+Para ejecutar las pruebas localmente por medio de la terminal, con este comando:
+
+  gradle clean test -Dcucumber.options="--tags @etiqueta"
