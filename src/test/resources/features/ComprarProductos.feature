@@ -11,7 +11,7 @@ Característica: Comprar productos
 
     Ejemplos:
       | url                        | usuario       | clave        | accion          |
-      | https://www.saucedemo.com/ | standard_user | secret_sauce | Compra Completa |
+      | https://www.saucedemo.com/ | standard_user | secret_sauce | Compra completa |
 
   @LoginFallido
   Esquema del escenario: Login con usuario errado
